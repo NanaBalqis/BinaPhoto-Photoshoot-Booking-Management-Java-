@@ -1,0 +1,8 @@
+Customer List For Group[1] Photoshoot
+Customer Name		Phone Number		Date
+-------------		------------		----
+Ain		            129293829		     120223
+Emyllia		      198646572		     120423
+Udin		            12546378		     100223
+Qistina		      120918713		     090523
+Number of customer:4

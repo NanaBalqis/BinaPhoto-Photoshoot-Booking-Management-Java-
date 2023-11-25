@@ -1,0 +1,9 @@
+Customer List For Single[2] Photoshoot
+Customer Name		Phone Number		Date
+-------------		------------		----
+Najihah		      110299930		     190323
+Fadhli		      147842990		     030323
+Ahzim		            189764874		     110623
+Kyle		            123785601		     070623
+Danim		            121661000		     300723
+Number of customer:5
